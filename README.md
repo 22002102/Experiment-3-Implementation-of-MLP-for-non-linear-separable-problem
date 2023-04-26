@@ -119,4 +119,4 @@ predict(w1,w2,test)
 
 
 
-Implementation-of-MLP-for-non-linear-separable-problem successfully complited
+Implementation-of-MLP-for-non-linear-separable-problem successfully completed.
